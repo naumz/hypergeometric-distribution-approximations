@@ -12,3 +12,5 @@ The code is written in MATLAB and consists of:
 4. norm2_comparison.m - To determine errors in approximation of hypergeometric distribution
 
 Each script is self-contained.
+
+Reference: http://naumaan.com/files/HypGeo-CI-Naumaan_Nayyar.pdf
